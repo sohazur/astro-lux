@@ -40,10 +40,7 @@ function App() {
               backgroundColor: "rgba(3, 11, 23, 0.85)",
             }}
           >
-            <p>
-              © {new Date().getFullYear()} Dubai to the Stars. All rights
-              reserved.
-            </p>
+            <p>© {new Date().getFullYear()} AstroLux. All rights reserved.</p>
             <p>
               The premier luxury space travel experience from Earth to the
               cosmos.

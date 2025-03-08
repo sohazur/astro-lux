@@ -48,10 +48,10 @@ const Packages = () => {
       >
         <h3>Custom Space Travel Experiences</h3>
         <p>
-          Looking for something even more exclusive? Dubai to the Stars offers
-          bespoke space travel experiences tailored to your specific
-          requirements. From private space stations to extended lunar stays, our
-          team can create the ultimate space adventure.
+          Looking for something even more exclusive? AstroLux offers bespoke
+          space travel experiences tailored to your specific requirements. From
+          private space stations to extended lunar stays, our team can create
+          the ultimate space adventure.
         </p>
         <div style={{ marginTop: "1.5rem" }}>
           <Link to="/contact" className="btn-primary">
@@ -74,7 +74,7 @@ const Packages = () => {
           the perfect package.
         </p>
         <Link to="/booking" className="btn-primary">
-          Book Your Space Journey
+          Book Your AstroLux Journey
         </Link>
       </div>
     </div>

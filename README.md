@@ -1,4 +1,4 @@
-# Dubai to the Stars - Space Travel Booking Platform
+# AstroLux - Space Travel Booking Platform
 
 A luxury space travel booking platform built with React and Firebase, allowing users to book journeys to space destinations like the International Space Station, the Moon, and beyond.
 
@@ -30,8 +30,8 @@ A luxury space travel booking platform built with React and Firebase, allowing u
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/dubai-to-the-stars.git
-   cd dubai-to-the-stars
+   git clone https://github.com/yourusername/astrolux.git
+   cd astrolux
    ```
 
 2. Install dependencies:
@@ -70,7 +70,7 @@ This project is configured for easy deployment to Netlify:
 ## Project Structure
 
 ```
-dubai-to-the-stars/
+astrolux/
 ├─ src/
 │  ├─ components/       # Reusable components
 │  ├─ contexts/         # Context providers (Auth)

@@ -20,7 +20,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          Dubai to the Stars
+          AstroLux
         </Link>
         <ul className="nav-menu">
           <li className="nav-item">

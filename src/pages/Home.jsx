@@ -11,7 +11,7 @@ const Home = () => {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content fade-in">
-          <h1 className="hero-title">Dubai to the Stars</h1>
+          <h1 className="hero-title">AstroLux</h1>
           <h2 className="hero-subtitle">
             Experience the frontier of luxury space travel from the world's
             premier launch hub
@@ -76,7 +76,7 @@ const Home = () => {
         style={{ backgroundColor: "rgba(3, 11, 23, 0.8)" }}
       >
         <div className="container">
-          <h2 style={{ textAlign: "center" }}>Why Choose Dubai to the Stars</h2>
+          <h2 style={{ textAlign: "center" }}>Why Choose AstroLux</h2>
 
           <div
             style={{

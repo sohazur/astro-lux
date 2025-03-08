@@ -7,8 +7,8 @@ const Destinations = () => {
     <div className="container section">
       <h2>Explore Our Space Destinations</h2>
       <p>
-        From low Earth orbit to the lunar surface and beyond, Dubai to the Stars
-        offers exclusive access to humanity's greatest frontier destinations.
+        From low Earth orbit to the lunar surface and beyond, AstroLux offers
+        exclusive access to humanity's greatest frontier destinations.
       </p>
 
       <div className="destinations-grid">
@@ -68,7 +68,7 @@ const Destinations = () => {
           Choose your destination and begin your journey to the stars.
         </p>
         <Link to="/booking" className="btn-primary">
-          Book Your Space Journey
+          Book Your AstroLux Journey
         </Link>
       </div>
     </div>

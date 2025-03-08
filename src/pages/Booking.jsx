@@ -129,7 +129,7 @@ const Booking = () => {
 
   return (
     <div className="container section">
-      <h2 className="form-title">Book Your Space Journey</h2>
+      <h2 className="form-title">Book Your AstroLux Journey</h2>
 
       {error && <div className="alert alert-error">{error}</div>}
       {success && <div className="alert alert-success">{success}</div>}

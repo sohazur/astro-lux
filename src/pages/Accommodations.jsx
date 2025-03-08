@@ -125,11 +125,11 @@ const Accommodations = () => {
           }}
         >
           Our space accommodations redefine luxury with breathtaking views of
-          Earth, the Moon, and the cosmos. Book your space journey today and
+          Earth, the Moon, and the cosmos. Book your AstroLux journey today and
           experience the ultimate getaway.
         </p>
         <Link to="/booking" className="btn-primary">
-          Book Your Space Journey
+          Book Your AstroLux Journey
         </Link>
       </div>
     </div>

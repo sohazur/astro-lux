@@ -167,7 +167,7 @@ const Dashboard = () => {
                 className="user-avatar"
               />
               <h3>{currentUser.displayName || currentUser.email}</h3>
-              <p>Space Explorer</p>
+              <p>AstroLux Explorer</p>
             </div>
 
             <ul className="dashboard-menu">
