@@ -5,7 +5,7 @@ export const destinations = [
     name: "International Space Station",
     description:
       "Experience weightlessness at 408km above Earth in the legendary ISS, the largest human structure in space.",
-    image: "iss.jpg",
+    image: "iss.webp",
     distance: "408 km",
     travelTime: "6 hours",
   },
@@ -14,7 +14,7 @@ export const destinations = [
     name: "Lunar Gateway",
     description:
       "Visit the Moon's orbit and experience breathtaking views of Earth's satellite from the Lunar Gateway station.",
-    image: "moon.jpg",
+    image: "moon.webp",
     distance: "384,400 km",
     travelTime: "3 days",
   },
@@ -23,7 +23,7 @@ export const destinations = [
     name: "Lunar Surface",
     description:
       "Walk on the surface of the Moon and experience 1/6th of Earth's gravity at our Artemis Base Camp.",
-    image: "lunar-surface.jpg",
+    image: "lunar-surface.webp",
     distance: "384,400 km",
     travelTime: "3 days",
   },
@@ -32,7 +32,7 @@ export const destinations = [
     name: "Mars Transfer Station",
     description:
       "The halfway point to Mars, experience deep space travel in our state-of-the-art transfer station.",
-    image: "mars-transfer.jpg",
+    image: "mars-transfer.webp",
     distance: "54.6 million km",
     travelTime: "3 months",
   },
@@ -119,7 +119,7 @@ export const accommodations = [
       "Space communication system",
     ],
     pricePerNight: 500000, // $500,000
-    image: "iss-module.jpg",
+    image: "iss-module.webp",
   },
   {
     id: "lunar-orbit-hotel",
@@ -134,7 +134,7 @@ export const accommodations = [
       "Spa treatments",
     ],
     pricePerNight: 1200000, // $1.2 million
-    image: "lunar-orbit-hotel.jpg",
+    image: "lunar-orbit-hotel.webp",
   },
   {
     id: "lunar-dome-a",
@@ -149,7 +149,7 @@ export const accommodations = [
       "Earth-viewing lounge",
     ],
     pricePerNight: 2500000, // $2.5 million
-    image: "lunar-dome.jpg",
+    image: "lunar-dome.webp",
   },
   {
     id: "lunar-underground",
@@ -164,7 +164,7 @@ export const accommodations = [
       "Research facilities access",
     ],
     pricePerNight: 3000000, // $3 million
-    image: "lunar-underground.jpg",
+    image: "lunar-underground.webp",
   },
   {
     id: "mars-station",
@@ -179,7 +179,7 @@ export const accommodations = [
       "Deep space observation deck",
     ],
     pricePerNight: 5000000, // $5 million
-    image: "mars-station.jpg",
+    image: "mars-station.webp",
   },
 ];
 

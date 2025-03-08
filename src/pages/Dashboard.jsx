@@ -162,7 +162,7 @@ const Dashboard = () => {
           <div className="dashboard-sidebar">
             <div className="user-info">
               <img
-                src={currentUser.photoURL || "/images/default-avatar.jpg"}
+                src={currentUser.photoURL || "/images/default-avatar.webp"}
                 alt="User Avatar"
                 className="user-avatar"
               />
