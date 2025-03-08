@@ -48,12 +48,28 @@ const Home = () => {
                   <div className="destination-time">
                     <span>Travel Time: {destination.travelTime}</span>
                   </div>
-                  <Link
-                    to={`/destinations/${destination.id}`}
-                    className="btn-primary"
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "space-between",
+                      marginTop: "1rem",
+                    }}
                   >
-                    Learn More
-                  </Link>
+                    <Link
+                      to={`/accommodations?destination=${destination.id}`}
+                      className="btn-primary"
+                      style={{ marginRight: "0.5rem" }}
+                    >
+                      View Accommodations
+                    </Link>
+                    <Link
+                      to={`/booking`}
+                      className="btn-primary"
+                      style={{ marginLeft: "0.5rem" }}
+                    >
+                      Book Now
+                    </Link>
+                  </div>
                 </div>
               </div>
             ))}
